@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there!
-   I’m Stepan.
+     I’m Stepan.
 
 - 🌱 I’m currently learning Python, Flask & SQL and solving problems on leetcode.
 - 👀 I’m want to become a python developer.
