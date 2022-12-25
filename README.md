@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there!
    I’m Stepan.
 
-- 🌱 I’m currently learning Python, Flask & SQL and solving problems on leetcode.
-- 👀 I’m want to become a python developer.
+- 🌱 I’m currently learning Golang, Python & SQL and solving problems on leetcode.
+- 👀 I’m want to become a Golang developer.
 
 
 - 📫 You can reach me on Telegram: Ethereal_Tears  
