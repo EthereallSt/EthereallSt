@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stepan</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> I'm Stepan</h1>
 <h3 align="center">A passionate junior backend developer from Russia</h3>
 
 - 🔭 I’m currently working in: [Wildberries](https://www.wildberries.ru/)
