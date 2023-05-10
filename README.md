@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in: [Wildberries](https://www.wildberries.ru/)
 
-- 🌱 I’m currently learning: **Docker, PostgreSQL, Golang**
+- 🌱 I’m currently learning: **Cypress, Python, Selenium**
 
 - 📫 You can reach me on Telegram: **Ethereal_Tears**
                       or   E-mail: **Stpokorn@ya.ru**
