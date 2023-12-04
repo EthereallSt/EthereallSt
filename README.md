@@ -1,12 +1,12 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> I'm Stepan</h1>
-<h3 align="center">A passionate junior backend developer from Russia</h3>
+<h3 align="center">A passionate  QA/developer from Russia</h3>
 
-- 🔭 I’m currently working in: [Wildberries](https://www.wildberries.ru/)
+- 🔭 I’m currently working in: [Soapbox](https://www.soap-bx.com/)
 
 - 🌱 I’m currently learning: **Cypress, Python, Selenium**
 
 - 📫 You can reach me on Telegram: **Ethereal_Tears**
-                      or   E-mail: **Stpokorn@ya.ru**
+                      or   E-mail: **Stpok13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
