@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> I'm Stepan</h1>
-<h3 align="center">A passionate  QA/developer from Russia</h3>
+<h3 align="center">A passionate  QA engineer from Russia</h3>
 
 - 🔭 I’m currently working in: [Soapbox](https://www.soap-bx.com/)
 
